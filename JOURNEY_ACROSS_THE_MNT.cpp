@@ -9,7 +9,7 @@
 
 static std::vector<std::string> usedNames; //used for preventing repeated names
 
-CharacterFactory::enumOfMajorType chooseMajor() { //TODO: FIX ISSUE WHERE INPUT IS NOT RECOGNIZED. MIGHT BE SOMETHING TO DO WITH CIN BUFFER
+CharacterFactory::enumOfMajorType chooseMajor() {
     
     CharacterFactory::enumOfMajorType majorChoice = CharacterFactory::NoMajor;
     bool validTicket = false;
