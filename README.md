@@ -1,4 +1,5 @@
-NOTE: These were the lab instructions given to us for our class, I am keeping them here for posterity.
+# NOTE: 
+These were the lab instructions given to us for our class, I am keeping them here for posterity, in case anyone wanted to see them.
 
 # Lab08
 
