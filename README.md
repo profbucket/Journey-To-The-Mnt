@@ -1,3 +1,5 @@
+NOTE: These were the lab instructions given to us for our class, I am keeping them here for posterity.
+
 # Lab08
 
 Must follow standards cited here:
